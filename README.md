@@ -9,14 +9,14 @@
 - **スタイル選択**: 論理的、情熱的、協調性重視など5つのスタイル
 - **文字数調整**: 200-500文字、カスタム文字数に対応
 - **バリエーション生成**: 同じ内容を異なるアプローチで再作成
-- **文章分析**: AI による改善提案とフィードバック
+- **文章分析**: 改善提案とフィードバック
 
 ## セットアップ
 
 ### 1. リポジトリのクローン
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/HexagonMD/es-content-generator.git
+cd es-content-generator
 ```
 
 ### 2. 必要なライブラリのインストール
